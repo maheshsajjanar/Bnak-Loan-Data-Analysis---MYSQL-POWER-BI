@@ -73,8 +73,6 @@ A complete analytical project covering:
 - Dashboard building  
 - Presentation documentation
 
-<img width="1272" height="715" alt="image" src="https://github.com/user-attachments/assets/142535f1-5577-4480-beee-635b0da35731" />
-
   
 <img width="1269" height="710" alt="image" src="https://github.com/user-attachments/assets/c966c894-9fb5-4ae9-9cb9-2f735dc230e8" />
 <img width="1276" height="708" alt="image" src="https://github.com/user-attachments/assets/2fc2566c-5cf6-4efd-b97d-a2383c3a422b" />
