@@ -1,4 +1,4 @@
-<img width="1272" height="715" alt="image" src="https://github.com/user-attachments/assets/2a3e53b0-0167-4035-8fb0-76e85ac20be4" /># 📊 Bank Loan Data Analysis | MySQL Project
+📊 Bank Loan Data Analysis | MySQL Project
 
 ## 🔍 Project Overview
 This project involves analyzing a bank loan dataset using **MySQL** to generate insights on loan performance, borrower behavior, and repayment trends. The objective is to provide business-level insights for financial teams using SQL-based analysis.
