@@ -24,7 +24,7 @@ This project involves analyzing a bank loan dataset using **MySQL** to generate 
 ---
 
 ## 📁 Repository Contains
-| File / Folder | Description |
+| File |
 |--------------|-------------|
 | All MySQL queries for this project |
 | Screenshot of Power BI dashboard |
